@@ -1,12 +1,7 @@
 # Android-Attendance-App
 
 
-
-See Demo Here - https://projectworlds.in/android-projects-with-source-code/android-attendance-system-app-source-code/
-
-More Project
-
-Youtube Channel Link :https://www.youtube.com/channel/UCFMkpvtYjSAPXUPjImQK7bg?sub_confirmation=1
+Youtube Video Link: https://youtu.be/MKWHF-3GQYs?feature=shared
 
 
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
